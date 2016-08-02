@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+
+
+
+#gallery1-1 .mbr-gallery-item > a > span {
+  font-family: 'Indie Flower', cursive;
+  font-size: 14px;
+  text-align: left;
+}
+#msg-box3-15 .mbr-section-title,
+#msg-box3-15 p {
+  color: #000;
+}
+#msg-box3-15 .mbr-section-title {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-15 .lead {
+  font-size: 18px;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-15 .lead P {
+  font-size: 18px;
+}
+#msg-box3-15 .mbr-section-title I {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 48px;
+}
+#features3-10 P {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 17px;
+}
+#features3-10 STRONG {
+  font-size: 14px;
+}
+#features3-10 .btn {
+  font-size: 14px;
+}
+#features3-10 H4 {
+  font-size: 22px;
+}
+#testimonials1-16 .card-block P {
+  font-size: 30px;
+  font-family: 'Lora', serif;
+}
+#testimonials1-16 .card-block EM {
+  font-size: 19px;
+}
+#form1-14 .mbr-section-title {
+  text-align: right;
+  font-family: 'Lora', serif;
+}
+#form1-14 SMALL {
+  text-align: right;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+#form1-14 B {
+  font-size: 20px;
+}
+#form1-14 P {
+  font-size: 22px;
+  color: #000000;
+  font-family: 'Lora', serif;
+  text-align: right;
+}
